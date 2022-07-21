@@ -20,11 +20,11 @@ https://www.youtube.com/watch?v=V3IOfvGmqxs
 git clone https://github.com/Anish-Malla/Zoom-Automation-Python
 ```
 * cd into the directory
-* Install required libraries
+* Yüklemeniz gereken kütüphaneler
 ```
 pip3 install pandas
 ```
-* Follow the instructions specific to your OS for downloading pyautogui
+* Buradan talimatları uygulayınız
 ```
 https://pyautogui.readthedocs.io/en/latest/install.html
 ```
